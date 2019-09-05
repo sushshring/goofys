@@ -18,7 +18,7 @@
 	url = https://github.com/kahing/fusego
 [submodule "vendor/github.com/Azure/go-autorest"]
 	path = vendor/github.com/Azure/go-autorest
-	url = https://github.com/Azure/go-autorest/
+	url = https://github.com/jhendrixMSFT/go-autorest.git
 [submodule "vendor/github.com/Azure/azure-pipeline-go"]
 	path = vendor/github.com/Azure/azure-pipeline-go
 	url = https://github.com/Azure/azure-pipeline-go/
